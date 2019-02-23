@@ -1,1 +1,5 @@
 /* Add your own CSS code below */
+.container {
+  display: flex;
+  flex-direction: column;
+}
